@@ -4,7 +4,7 @@
 
 ## Description
 
-> GoTemps is a command line temperature converter.  It converts between Fahranheit and Celcius given
+> GoTemps is a command line temperature converter.  It converts between Fahrenheit and Celsius given
 input like 32C, 0c, 70F, 50f.
 
 ## Usage
