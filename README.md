@@ -15,3 +15,7 @@ input like 32C, 0c, 70F, 50f.
 ## License
 
 > The Unlicense, see the included LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/darthlukan/gotemps/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
